@@ -24,7 +24,7 @@ Coding is my way to make any game I can think of. I am working with Unity and C#
 
 ### Work Example
 
-<img src="https://github.com/AlexanderPfeifer/AlexanderPfeifer/blob/main/NightShiftGif.gif" width="256" />
+<img src="https://github.com/AlexanderPfeifer/AlexanderPfeifer/blob/main/NightShiftGif.gif" width="256 * 2" />
 
 
 ### Socials

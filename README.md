@@ -4,13 +4,13 @@ Hi 👋 My name is Alexander Pfeifer
 Gameplay Programmer
 -------------------
 
-Coding is my way to make any game I can think of. I am working with Unity and C# but I'm aiming to make games in many more varieties, so unreal, godot, C++, etc. are on the list as well!
+Coding is my way of making any game I can think of. I currently work with Unity and C#, have dabbled with Godot and am aiming to make games in Unreal using C++!
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Portfolio by Alexander Pfeifer](http://alexanderpfeifer06.wixsite.com/gameplayprogrammer)
 * ✉️  You can contact me at [alexander.pfeifer.06@gmail.com](mailto:alexander.pfeifer.06@gmail.com)
-* 🚀  I'm currently working on [Lights Out](http://github.com/AlexanderPfeifer?tab=repositories)
-* 🧠  I'm learning OOP and Russian
+* 🚀  I'm currently working on [Lights Out](http://github.com/AlexanderPfeifer?tab=repositories) & on [Masked Strategy](https://basko20.itch.io/the-masked-strategy)
+* 🧠  I'm learning to get a game on steam and russian
 * 🤝  I'm open to collaborating on creating games, especially game jams!
 * ⚡  I have a cat named Twix
 

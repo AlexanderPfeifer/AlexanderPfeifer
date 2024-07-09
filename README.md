@@ -4,7 +4,7 @@ Hi 👋 My name is Alexander Pfeifer
 Gameplay Programmer
 -------------------
 
-Coding is my way of making any game I can think of. I currently work with Unity and C#, have dabbled with Godot and am aiming to make games in Unreal using C++!
+Coding is my way of making any game I can think of. I currently work with Unity and C#, have dabbled with Godot, and aim to try making games in Unreal using C++!
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Portfolio by Alexander Pfeifer](http://alexanderpfeifer06.wixsite.com/gameplayprogrammer)

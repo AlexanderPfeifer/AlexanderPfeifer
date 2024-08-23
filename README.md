@@ -4,12 +4,12 @@ Hi 👋 My name is Alexander Pfeifer
 Gameplay Programmer
 -------------------
 
-Coding is my way of making any game I can think of. I currently work with Unity and C#, have dabbled with Godot, and aim to try making games in Unreal using C++!
+Coding is my way of making any game I can think of. I currently work with Unity and C#, have dabbled with Godot, and aim to make a game in Unreal using C++!
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Portfolio by Alexander Pfeifer](http://alexanderpfeifer06.wixsite.com/gameplayprogrammer)
 * ✉️  You can contact me at [alexander.pfeifer.06@gmail.com](mailto:alexander.pfeifer.06@gmail.com)
-* 🚀  I'm currently working on [Lights Out](http://github.com/AlexanderPfeifer?tab=repositories) & on [Masked Strategy](https://basko20.itch.io/the-masked-strategy)
+* 🚀  I'm currently working on [Rag Tag Heroes](https://store.steampowered.com/app/2067070/Ragtag_Heroes__Roguelite_COOP_Deckbuilder/) & on [Masked Strategy](https://basko20.itch.io/the-masked-strategy)
 * 🧠  I'm learning to get a game on steam and russian
 * 🤝  I'm open to collaborating on creating games, especially game jams!
 * ⚡  I have a cat named Twix

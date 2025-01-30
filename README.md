@@ -21,7 +21,7 @@ Coding is my way of making any game I can think of. I am particularly skilled wi
 
 ### Work Example
 
-<img src="https://github.com/AlexanderPfeifer/AlexanderPfeifer/main/BrainStormingNecromance.gif" width="256 * 2" />
+![Demo](https://raw.githubusercontent.com/AlexanderPfeifer/AlexanderPfeifer/main/BrainStormingNecromance.gif)
 
 
 ### Badges

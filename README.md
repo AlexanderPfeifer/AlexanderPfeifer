@@ -9,7 +9,7 @@ Coding is my way of making any game I can think of. I currently work with Unity 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Portfolio by Alexander Pfeifer](http://alexanderpfeifer06.wixsite.com/gameplayprogrammer)
 * ✉️  You can contact me at [alexander.pfeifer.06@gmail.com](mailto:alexander.pfeifer.06@gmail.com)
-* 🚀  I'm currently working on [Masked Strategy](https://basko20.itch.io/the-masked-strategy)
+* 🚀  I'm currently working on the rework of [Night Shift](https://github.com/AlexanderPfeifer/S.03.NightShift---Top-Down-Shooter)
 * 🧠  I'm learning to get a game on steam and russian
 * 🤝  I'm open to collaborating on creating games, especially game jams!
 * ⚡  I have a cat named Twix

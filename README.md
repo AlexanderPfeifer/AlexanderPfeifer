@@ -4,12 +4,13 @@ Hi 👋 My name is Alexander Pfeifer
 Gameplay Programmer
 -------------------
 
-Coding is my way of making any game I can think of. I am particularly skilled with Unity.
+My journey into game development began at Designschule Schwerin, where I started an apprenticeship as a Game Designer. Early on, I discovered that coding was the most exciting and rewarding part of the process for me. Watching a game come to life through code makes the hard work feel effortless.
+Over time, I found my true passion in gameplay programming — I love working on player-related systems and interactions. I need creativity and game design to be part of my daily work, and gameplay programming is the perfect blend of both.
 
-* 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [Portfolio by Alexander Pfeifer](http://alexanderpfeifer06.wixsite.com/gameplayprogrammer)
+* 🌍  I'm based in Germany - but I'm open to live where work needs me
+* 🖥️  My portfolio is worth a look: [Portfolio by Alexander Pfeifer](http://alexanderpfeifer06.wixsite.com/gameplayprogrammer)
 * ✉️  You can contact me at [alexander.pfeifer.06@gmail.com](mailto:alexander.pfeifer.06@gmail.com)
-* 🤝  I'm open to collaborating on creating games, especially game jams!
+* 🤝  I'm open for any feedback, questions, requests or to talk about games - I just love to talk.
 
 ### Skills
 
